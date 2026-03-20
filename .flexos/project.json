@@ -1,21 +1,18 @@
 {
-  "id": null,
-  "name": "{{project_name}}",
-  "slug": "{{project_slug}}",
+  "id": "342bb001-8d0a-4651-aa34-18b7326dcc19",
+  "name": "AskFlexi (FlexOS App)",
+  "slug": "askflexi-flexos-app",
   "description": "",
   "tagline": "",
   "tags": [],
-
   "owner": {
-    "id": null,
-    "email": null
+    "id": "KxTyGF3u7LO7MWwGnw5wgffJnXz1",
+    "email": "jos@askflexinux2t.com"
   },
-
   "status": "active",
   "visibility": "private",
-
   "brand": {
-    "themeColor": "{{theme_color}}",
+    "themeColor": "#10B981",
     "theme": "default",
     "logo": null,
     "favicon": null,
@@ -25,26 +22,22 @@
       "image": null
     }
   },
-
   "deploy": {
     "rootMode": "prototype",
     "prototypeEnabled": true,
-    "vercelDomain": null,
+    "vercelDomain": "askflexi-flexos-app-g6trdv.flexos.site",
     "customDomain": null
   },
-
   "github": {
-    "repoOwner": null,
-    "repoName": null,
+    "repoOwner": "flexos-projects",
+    "repoName": "askflexi-flexos-app-g6trdv",
     "branch": "main",
-    "url": null
+    "url": "https://github.com/flexos-projects/askflexi-flexos-app-g6trdv"
   },
-
   "vercel": {
     "projectId": null,
     "productionUrl": null
   },
-
   "techStack": {
     "framework": "nuxt4",
     "hosting": "vercel",
@@ -52,13 +45,11 @@
     "auth": "better-auth",
     "css": "open-props"
   },
-
   "settings": {
     "defaultFocusMode": true,
     "autoSave": true,
     "aiModel": "gemini-flash"
   },
-
-  "createdAt": "{{created_at}}",
-  "updatedAt": "{{created_at}}"
+  "createdAt": "2026-03-20T08:27:55.767Z",
+  "updatedAt": "2026-03-20T08:27:55.767Z"
 }
